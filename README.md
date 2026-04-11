@@ -12,7 +12,7 @@
 - 🎓 BCA Student from *Nepal*  
 - 💻 Passionate about *Full Stack Development & AI*  
 - 🚀 Currently building real-world projects  
-helloo
+hello
 ---
 
 ## 🧰 Tech Stack
