@@ -42,8 +42,6 @@ Goal: Build impactful real-world applications
 * 🛠 Build scalable full-stack applications
 * 🤖 Explore AI/ML and deep learning
 * ⚙️ Work with APIs, databases, and cloud tools
-* 🚀 Constantly learning & shipping projects
-
 ---
 
 ## 🧰 Tech Stack
