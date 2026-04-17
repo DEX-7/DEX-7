@@ -35,12 +35,6 @@ Learning: Advanced Backend & Machine Learning
 Goal: Build impactful real-world applications
 ```
 
----
-
-## ⚡ What I Do
-
-
-
 ## 🧰 Tech Stack
 
 <div align="center">
