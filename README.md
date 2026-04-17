@@ -85,16 +85,6 @@ Goal: Build impactful real-world applications
   <img src="https://img.shields.io/badge/GitHub-DEX--7-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Add LinkedIn / Portfolio later -->
-
-</div>
-
----
-
-## 💡 Quote
-
-<div align="center">
-
 *"Code. Learn. Build. Repeat."*
 
 </div>
