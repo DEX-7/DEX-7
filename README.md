@@ -88,20 +88,6 @@ Goal: Build impactful real-world applications
 
 ---
 
-## 🧩 Featured Projects
-
-<div align="center">
-
-| Project       | Description       |
-| ------------- | ----------------- |
-| 🚀 Project 1  | Short description |
-| 🤖 AI Project | Short description |
-| 🌐 Web App    | Short description |
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
