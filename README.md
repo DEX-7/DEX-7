@@ -39,8 +39,7 @@ Goal: Build impactful real-world applications
 
 ## ⚡ What I Do
 
-* 🛠 Build scalable full-stack applications
----
+
 
 ## 🧰 Tech Stack
 
