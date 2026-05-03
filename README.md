@@ -41,13 +41,6 @@ Currently Learning: System Design + ML Models
 Mindset: Build → Break → Fix → Improve
 Goal: Real-world impactful software
 ```
-
-### 🚀 Featured Projects
-
-*   **[LogGuard AI](https://github.com/DEX-7)** - A high-performance backend system built with **FastAPI** and **PostgreSQL** designed for scalable log analysis and threat detection.
-*   **[Iris Clustering Engine](https://github.com/DEX-7)** - Implementing **unsupervised learning** models using **K-Means** and the Elbow Method for predictive data analysis and species clustering.
-*   **[Scientific Calculator](https://github.com/DEX-7)** - Version **1.0.5** of a robust calculation tool, featuring major UI formatting overhauls and precision bug fixes for enhanced user experience.
-
 ---
 
 ### 📊 GitHub Analytics
