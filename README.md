@@ -79,11 +79,6 @@ Goal: Real-world impactful software
 
 ---
 
-### ⚡ Dev Philosophy
+<!-- FOOTER -->
 
-> **Code. Learn. Break. Fix. Repeat.**
-
-*   ✔ **Simple** > Complex
-*   ✔ **Consistency** > Motivation
-*   ✔ **Projects** > Tutorials
-*   ✔ **Shipping** > Perfection
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b3a,100:2b1055&height=140&section=footer" />
